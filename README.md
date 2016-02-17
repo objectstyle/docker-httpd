@@ -14,6 +14,6 @@ Run the image (example):
 	-p 80:80 \
 	-p 443:443 \
 	-v $CONF_ROOT:/etc/httpd/conf.d \
-	-v $HTML_ROOT:/var/www \
+	-v $HTML_ROOT:/var/www/html \
 	-v $SSL_ROOT:/etc/httpd/ssl \
 	objectstyle/httpd`
