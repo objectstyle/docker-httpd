@@ -1,5 +1,5 @@
 # ObjectStyle HTTPD Docker Image
-This is a HTTPD Docker image for ObjectStyle [site](http://www.objectstyle.com/). Built on top of [centos:centos7](https://hub.docker.com/_/centos/) image.
+This is a HTTPD Docker image for ObjectStyle [site](http://www.objectstyle.com/). Built on top of [centos:latest](https://hub.docker.com/_/centos/) image.
 
 ## Usage
 
